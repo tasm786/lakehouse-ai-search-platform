@@ -1,0 +1,7 @@
+setuptools>=69
+wheel
+feast==0.60.0
+pandas==2.2.2
+numpy>=2.0
+redis==5.0.4
+pyarrow>=15.0.2
